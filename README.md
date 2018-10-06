@@ -7,7 +7,7 @@ https://elmas3.github.io/mao-seminar/
 斉藤
 森戸知沙希
 石田亜佑美
-
+R：佐藤優樹
 # ディレクトリ構成
 ```
 seminar/
