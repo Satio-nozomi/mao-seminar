@@ -3,11 +3,13 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
-# メンバー
-斉藤
-森戸知沙希
-石田亜佑美
+# メンバ-
+```
+O:斉藤
+O:森戸知沙希
 R：佐藤優樹
+O:out 石田亜佑美
+```
 # ディレクトリ構成
 ```
 seminar/
